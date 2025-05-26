@@ -120,11 +120,6 @@ apple-rush/
 ---
 
 ## 🖼️ Screenshots
-
-
-
-
-
 * **Main Menu**
     ![Main Menu](images/img1.png)
 
